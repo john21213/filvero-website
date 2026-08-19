@@ -1,5 +1,5 @@
 @media(min-width:921px){body{zoom:1.22}.hero{min-height:760px;padding-top:104px;padding-bottom:110px}.hero h1{font-size:70px}.hero-visual{min-height:520px}}
 .hero-visual{display:flex;align-items:center;justify-content:center}
-.current-app-shot{position:relative;z-index:2;display:block;width:64%;max-width:none;border:1px solid #d5dfef;border-radius:12px;background:#fff;box-shadow:0 30px 70px #132b591f;object-fit:contain}
+.current-app-shot{position:relative;z-index:2;display:block;width:80%;max-width:none;border:1px solid #d5dfef;border-radius:12px;background:#fff;box-shadow:0 30px 70px #132b591f;object-fit:contain}
 .hero-visual .app-window{display:none}
 @media(max-width:920px){.current-app-shot{width:100%;max-width:100%}}
